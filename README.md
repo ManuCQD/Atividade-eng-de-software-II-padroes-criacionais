@@ -1,1 +1,1 @@
-O factory Method foi aplicado em um arquivo separado por questão de organização 
+Programa para indentificar arquivos PDF,TXT e Docs. O factory Method foi aplicado em um arquivo separado por questão de organização 
