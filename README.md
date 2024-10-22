@@ -1,2 +1,1 @@
-# Atividade-eng-de-software-II-padroes-criacionais
-Atividade eng de software II padroes criacionais
+O factory Method foi aplicado em um arquivo separado por questão de oragnização 
