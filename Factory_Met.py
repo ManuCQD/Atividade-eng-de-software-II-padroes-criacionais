@@ -8,7 +8,7 @@ def criar_arquivos(tipo_arquivo):  # Verifica o tipo de arquivo e retorna a clas
     elif tipo_arquivo == "docx":
         return DocxArquivo()  #caso verdeiro ele ira retorna uma instância da classe docx
     elif tipo_arquivo == "pdf":
-        return PdfArquivo()  #caso verdeiro ele ira #caso verdeiro ele ira retorna uma instância da classe pdf
+        return PdfArquivo()  #caso verdeiro ele ira retorna uma instância da classe pdf
     else:
         print("Tipo de arquivo não encontrado")
         
