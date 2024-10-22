@@ -1,1 +1,1 @@
-O factory Method foi aplicado em um arquivo separado por questão de oragnização 
+O factory Method foi aplicado em um arquivo separado por questão de organização 
