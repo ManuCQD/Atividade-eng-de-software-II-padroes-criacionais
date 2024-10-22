@@ -4,11 +4,11 @@ from Arquivos import TxtArquivo, DocxArquivo, PdfArquivo  # Importa as classes c
 
 def criar_arquivos(tipo_arquivo):  # Verifica o tipo de arquivo e retorna a classe correspondente
     if tipo_arquivo == "txt":
-        return TxtArquivo()  #caso verdeiro ele ira retorna uma instância da classe TxtArquivo
+        return TxtArquivo()  #caso verdadeiro ele ira retorna uma instância da classe TxtArquivo
     elif tipo_arquivo == "docx":
-        return DocxArquivo()  #caso verdeiro ele ira retorna uma instância da classe docx
+        return DocxArquivo()  #caso verdadeiro ele ira retorna uma instância da classe docx
     elif tipo_arquivo == "pdf":
-        return PdfArquivo()  #caso verdeiro ele ira retorna uma instância da classe pdf
+        return PdfArquivo()  #caso verdadeiro ele ira retorna uma instância da classe pdf
     else:
         print("Tipo de arquivo não encontrado")
         
